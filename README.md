@@ -14,6 +14,7 @@ learning-repo/
 │   ├── books/               #   电子书、教材（建议只放链接，见下方约定）
 │   ├── papers/              #   论文
 │   ├── slides/              #   课件、PPT（建议只放链接）
+│   ├── skills/              #   Agent 技能包（画图：drawio-skill、drawio-styles）
 │   ├── links.md             #   外部链接合集：文档、视频、博客
 │   └── tools/               #   环境搭建脚本、配置文件
 ├── notes/                   # ✅ 核心：按周划分学习内容（子目录按周陆续创建）

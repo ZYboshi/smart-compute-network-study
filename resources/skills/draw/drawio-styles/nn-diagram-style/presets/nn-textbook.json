@@ -1,0 +1,45 @@
+{
+  "name": "nn-textbook",
+  "version": 1,
+  "default": false,
+  "source": { "type": "image", "path": "/mnt/e/Learn/transformer/第5章 神经网络.pdf", "extracted_at": "2026-08-16" },
+  "confidence": "medium",
+  "palette": {
+    "primary":   { "fillColor": "#E0F0E0", "strokeColor": "#70A030" },
+    "success":   null,
+    "warning":   null,
+    "accent":    null,
+    "danger":    { "fillColor": "#F0D0D0", "strokeColor": "#B03030" },
+    "neutral":   { "fillColor": "#FFFFFF", "strokeColor": "#909090" },
+    "secondary": null
+  },
+  "roles": {
+    "service":  "neutral",
+    "gateway":  "primary",
+    "error":    "danger",
+    "external": "neutral"
+  },
+  "shapes": {
+    "service":   "ellipse",
+    "database":  "shape=cylinder3",
+    "queue":     "rounded=0",
+    "decision":  "rhombus",
+    "external":  "rounded=1;dashed=1",
+    "container": "rounded=0;strokeColor=none;verticalAlign=top;align=center;spacingTop=8"
+  },
+  "font": {
+    "fontFamily": "Times New Roman",
+    "fontSize": 12,
+    "titleFontSize": 18,
+    "titleBold": true
+  },
+  "edges": {
+    "style": "edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#909090",
+    "arrow": "endArrow=classic;endFill=1",
+    "dashedFor": []
+  },
+  "extras": {
+    "sketch": false,
+    "globalStrokeWidth": 1
+  }
+}
