@@ -6,5 +6,6 @@
 | ---- | ---- | ---- | -------- | ------------------- |
 | notes01 | 待定 | 神经网络 + Transformer | 待定 | 待补充 |
 | notes02 | 待定 | 待定 | 待定 | 待补充 |
+| notes02 | 2026-11-03 | 分布式并行策略 | 待定 | (https://icntltogze9h.feishu.cn/wiki/EPUlwP7BriUjO2kv1dkc508pn1b?from=from_copylink) |
 
 > 说明：主题与目标由老师确定后填写；"关键资料 / 产出链接"指向 `resources/links.md` 中的链接或当周 `notes/notesNN--主题/` 下的产出（笔记、材料、实验代码等）。
